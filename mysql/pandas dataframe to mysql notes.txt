@@ -1,0 +1,5 @@
+pandas dataframe to mysql notes
+
+: Must have sqlalchemy and pymysql installed
+: create database in mysql workbench (or via sql commands)
+: create connection to engine, conn = engine.connect()
